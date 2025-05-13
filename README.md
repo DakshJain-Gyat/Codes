@@ -1,0 +1,2 @@
+This is a music player made using html, css and javascript. The music player fetches music from an R2 bucket I prepared using Cloudflare. The music player's backgroung changes on the basis of the piece played. there is a like button, Shuffle button. repeat button and a lisening report.
+I am yet to add MySQL to make it so that you can login. Also there are a fey kinks. I will fix these in the coming days.
